@@ -1,0 +1,28 @@
+*{
+  font-family:Arial, Helvetica, sans-serif;
+  color: aliceblue;
+}
+body{
+  background-image: url(mymedia/pexels-aleksandar-pasaric-2603464.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+a{
+  color: greenyellow;
+}
+a:hover{
+  color: yellow;
+}
+a:active{
+  color: blue;
+}
+button{
+  margin-top: 10px;
+  color: black;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 5px;
+}

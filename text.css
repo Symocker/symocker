@@ -1,0 +1,45 @@
+
+    p {
+    font-family: arial;
+    }
+    .video-title {
+font-size: 18px;
+font-weight: bold;
+width: 300px;
+line-height: 24px;
+margin-bottom: 10;
+   }
+   .video-stats {
+    font-size: 14px;
+    color: rgb(141, 140, 140);
+    margin-top: 0;
+    margin-bottom: 0;
+   }
+   .video-aurthor {
+    margin-top: 20px;
+    font-size: 14px;
+    margin-bottom: 0;
+   }
+   .video-description {
+    font-size: 14px;
+    color: rgb(58, 57, 57);
+    width: 280px;
+    line-height: 20px;
+    margin-top: 23px;
+    margin-bottom: 85px;
+   }
+   .apple-text {
+    margin-bottom: 50px;
+    font-size: 14px;
+    background-color: rgb(177, 5, 5);
+    color: white;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    }
+    .shop-link {
+        cursor: pointer;
+    }
+   .shop-link:hover{
+    text-decoration: underline;
+   }
